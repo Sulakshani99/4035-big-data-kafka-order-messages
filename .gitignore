@@ -1,0 +1,18 @@
+# Java / Maven build outputs
+target/
+
+# Conventions - generated reduced pom (typo variants accepted)
+dependency-reduced-pom.xml
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.class
