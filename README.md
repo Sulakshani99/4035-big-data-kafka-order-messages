@@ -4,6 +4,8 @@
 
 # Kafka Order Messages — Assignment
 
+Demonstration Video Link : https://drive.google.com/file/d/18oHlfnwrOTRxdS237bsYrDATLzG_KsnQ/view?usp=sharing
+
 This repository implements an asynchronous order-processing demo using Apache Kafka, Avro and Confluent Schema Registry. It is designed for a live demo and for submission with the following learning objectives:
 
 - Produce Avro-serialized records to Kafka
